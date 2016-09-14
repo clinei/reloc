@@ -1,3 +1,6 @@
+# [SOLVED]
+Pass DUB the `--combined` flag to fix.
+
 # Static + dynamic library link = error
 To build: 
 ```
