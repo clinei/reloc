@@ -1,3 +1,4 @@
+./reloc
 .dub
 docs.json
 dub.selections.json
