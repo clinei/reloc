@@ -1,4 +1,6 @@
 # Static + dynamic library link = error
+Using the command `dub build`
+
 Compiling a shared library that uses code from a static library results in a linker error, namely
 
 (with DMD)
