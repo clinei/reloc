@@ -1,0 +1,12 @@
+{
+	"name": "app",
+
+	"targetType": "dynamicLibrary",
+
+	"dependencies": {
+		"reloc:lib": {
+			"version": "~master",
+			"path": "../"
+		}
+	}
+}

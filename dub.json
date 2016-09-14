@@ -1,15 +1,13 @@
 {
 	"name": "reloc",
 
+	"targetType": "none",
+
 	"subPackages": [
 		{
 			"name": "lib",
-			"sourcePaths": ["lib"]
-
+			"sourcePaths": ["lib"],
+			"importPaths": ["lib"]
 		}
-	],
-
-	"dependencies": {
-		"reloc:lib": "~master"
-	}
+	]
 }
