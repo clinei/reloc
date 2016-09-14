@@ -1,0 +1,15 @@
+{
+	"name": "reloc",
+
+	"subPackages": [
+		{
+			"name": "lib",
+			"sourcePaths": ["lib"]
+
+		}
+	],
+
+	"dependencies": {
+		"reloc:lib": "~master"
+	}
+}
