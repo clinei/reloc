@@ -1,5 +1,8 @@
 # Static + dynamic library link = error
-Using the command `dub build`
+To build: 
+```
+cd app && dub build
+```
 
 Compiling a shared library that uses code from a static library results in a linker error, namely
 
